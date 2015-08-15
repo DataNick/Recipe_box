@@ -1,0 +1,11 @@
+==== Lessons Learned ====
+First experience with HAML
+Getting better acquainted with Bootstrap's grid pattern; using rows and columns
+Strengthening familiarity with Nested Forms using Cocoon gem
+First time using Simple_form gem
+Using paperclip gem
+Styling with bootstrap and making a pleasant-looking site
+
+Rebuilt this app three times
+Taken from Mackenzie Child's online series 12 in 12
+https://mackenziechild.me/12-in-12/3/
